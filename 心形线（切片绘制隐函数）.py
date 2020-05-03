@@ -46,7 +46,7 @@ def plot_implicit(fn, bbox=(-1.5,1.5)):
         ax.set_zlim3d(zmin,zmax)
         ax.set_xlim3d(xmin,xmax)
         ax.set_ylim3d(ymin,ymax)
-        plt.title("Stupid East West ")
+        plt.title("heart-shaped lines ")
         plt.axis('off')
         plt.show()
     except UserWarning:
