@@ -1,6 +1,4 @@
 # 绘制Cardioid
 
-此函数可以对任意隐函数方程使用，从而绘制任意隐函数图像，而不仅仅只是局限于心形线。
-只需改变其中的函数参数即可
-
+This function can be used on any implicit function equation to draw an image of any implicit function, not just limited to heart-shaped lines, which can be done by changing the first function's return value.
 
