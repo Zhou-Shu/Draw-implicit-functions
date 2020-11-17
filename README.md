@@ -1,4 +1,4 @@
-# 绘制Cardioid
+# Draw implicit functions
 
-This function can be used on any implicit function equation to draw an image of any implicit function, not just limited to heart-shaped lines, which can be done by changing the first function's return value.
+Any 3 dim implicit function can be drawn
 
